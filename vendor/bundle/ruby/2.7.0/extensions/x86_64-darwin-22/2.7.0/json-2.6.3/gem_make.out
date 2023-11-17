@@ -1,0 +1,13 @@
+current directory: /Users/usmanamin/react-native/products_app/DummyProject/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+/Users/usmanamin/.rvm/rubies/ruby-2.7.6/bin/ruby -I /Users/usmanamin/.rvm/rubies/ruby-2.7.6/lib/ruby/2.7.0 -r ./siteconf20231116-21448-adp2jy.rb extconf.rb
+creating Makefile
+
+current directory: /Users/usmanamin/react-native/products_app/DummyProject/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/usmanamin/react-native/products_app/DummyProject/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/usmanamin/react-native/products_app/DummyProject/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+make "DESTDIR=" install
